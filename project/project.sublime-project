@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+      "folder_exclude_patterns":
+      [
+        "big-dog-quest/node_modules",
+        "big-dog-quest/project",
+        "big-dog-quest/build"
+      ],
+			"path": "../"
+		}
+	]
+}

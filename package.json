@@ -1,0 +1,26 @@
+{
+  "name": "big-dog-quest",
+  "version": "1.0.0",
+  "description": "Adrien who?",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesper Gustafsson",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.17.5",
+    "browserify": "^13.1.1",
+    "del": "^2.2.2",
+    "exorcist": "^0.4.0",
+    "gulp": "^3.9.1",
+    "gulp-buffer": "0.0.2",
+    "gulp-if": "^2.0.1",
+    "gulp-uglify": "^2.0.0",
+    "request": "^2.76.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {}
+}

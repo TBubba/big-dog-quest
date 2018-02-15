@@ -1,0 +1,9 @@
+# Node/NPM
+/node_modules
+npm-debug.log.*
+
+# Sublime project (local workspace)
+/project/*.sublime-workspace
+
+# 
+/build
